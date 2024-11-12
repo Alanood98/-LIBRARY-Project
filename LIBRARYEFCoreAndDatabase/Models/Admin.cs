@@ -19,8 +19,10 @@ namespace LIBRARYEFCoreAndDatabase.Models
         public string Aname { get; set; }
 
         [Required]
-        [Range(8, 12)]
-        public int Apassword { get; set; }
+        [MinLength(8, ErrorMessage = "Password must be exactly 8 characters long.")]
+        [MaxLength(8, ErrorMessage = "Password must be exactly 8 characters long.")]
+        [RegularExpression(@"^(?=.*[A-Z])[A-Za-z\d]{8}$", ErrorMessage = "Password must be 8 characters long and contain at least one uppercase letter.")]
+        public string Apassword { get; set; }
 
         [Required]
         [RegularExpression(@"^[A-Z]+[a-zA-Z\s]*$")]

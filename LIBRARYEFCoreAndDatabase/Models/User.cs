@@ -15,9 +15,13 @@ namespace LIBRARYEFCoreAndDatabase.Models
         public int UID { get; set; }
 
         [Required]
-        [Range(8, 12)]
+        [MinLength(8, ErrorMessage = "Password must be exactly 8 characters long.")]
+        [MaxLength(8, ErrorMessage = "Password must be exactly 8 characters long.")]
+        [RegularExpression(@"^(?=.*[A-Z])[A-Za-z\d]{8}$", ErrorMessage = "Password must be 8 characters long and contain at least one uppercase letter.")]
+    
         public int Upassword { get; set; }
 
+        [Required]
         [StringLength(100, MinimumLength = 5)]
 
         public string Uname { get; set; }
