@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\repository\\borrowingbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:repository\\borrowingbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\models\\borrowingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:models\\borrowingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\libraryefcoreanddatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:libraryefcoreanddatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|c:\\new folder\\libraryefcoreanddatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8532AACA-301D-4C23-B20B-8721B94AEC17}|LIBRARYEFCoreAndDatabase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowingBookRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\BorrowingBookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BorrowingBookRepository.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\BorrowingBookRepository.cs",
+              "RelativeToolTip": "Repository\\BorrowingBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:32:22.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:31:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookRepository.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Repository\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:31:16.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:30:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AdminRepository.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Repository\\AdminRepository.cs",
+              "RelativeToolTip": "Repository\\AdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:30:20.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowingBook.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\BorrowingBook.cs",
+              "RelativeDocumentMoniker": "Models\\BorrowingBook.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\BorrowingBook.cs",
+              "RelativeToolTip": "Models\\BorrowingBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:15:12.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:14:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:14:08.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:13:50.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:12:45.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LIBRARYEFCoreAndDatabase",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\LIBRARYEFCoreAndDatabase.csproj",
+              "RelativeDocumentMoniker": "LIBRARYEFCoreAndDatabase.csproj",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\LIBRARYEFCoreAndDatabase.csproj",
+              "RelativeToolTip": "LIBRARYEFCoreAndDatabase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T08:11:22.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:09:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\New folder\\LIBRARYEFCoreAndDatabase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:58:28.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
